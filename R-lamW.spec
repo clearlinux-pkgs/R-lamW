@@ -7,7 +7,7 @@
 #
 Name     : R-lamW
 Version  : 2.2.1
-Release  : 16
+Release  : 17
 URL      : https://cran.r-project.org/src/contrib/lamW_2.2.1.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/lamW_2.2.1.tar.gz
 Summary  : Lambert-W Function
